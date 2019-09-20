@@ -1,0 +1,22 @@
+Epoch 1/40 - init poids COCO
+  1/200 [..............................] - ETA: 2:20:18 - loss: 1.9719 - rpn_class_loss: 0.0157 - rpn_bbox_loss: 0.8656 - mrcnn_class_loss: 0.0609 - mrcnn_
+  2/200 [..............................] - ETA: 1:11:50 - loss: 1.9692 - rpn_class_loss: 0.0157 - rpn_bbox_loss: 0.8608 - mrcnn_class_loss: 0.0650 - mrcnn_
+  3/200 [..............................] - ETA: 49:00 - loss: 1.9577 - rpn_class_loss: 0.0157 - rpn_bbox_loss: 0.8534 - mrcnn_class_loss: 0.0728 - mrcnn_bb
+
+
+
+Epoch 2/40
+  1/200 [..............................] - ETA: 2:20:18 - loss: 1.9719 - rpn_class_loss: 0.0157 - rpn_bbox_loss: 0.8656 - mrcnn_class_loss: 0.0609 - mrcnn_  2/200 [..............................] - ETA: 1:11:50 - loss: 1.9692 - rpn_class_loss: 0.0157 - rpn_bbox_loss: 0.8608 - mrcnn_class_loss: 0.0650 - mrcnn
+  2/200 [..............................] - ETA: 1:11:50 - loss: 1.9692 - rpn_class_loss: 0.0157 - rpn_bbox_loss: 0.8608 - mrcnn_class_loss: 0.0650 - mrcnn_  3/200 [..............................] - ETA: 49:00 - loss: 1.9577 - rpn_class_loss: 0.0157 - rpn_bbox_loss: 0.8534 - mrcnn_class_loss: 0.0728 - mrcnn_bb
+...
+
+197/200 [============================>.] - ETA: 4s - loss: 1.1620 - rpn_class_loss: 0.0127 - rpn_bbox_loss: 0.3741 - mrcnn_class_loss: 0.0650 - mrcnn_bbox_
+198/200 [============================>.] - ETA: 2s - loss: 1.1655 - rpn_class_loss: 0.0128 - rpn_bbox_loss: 0.3764 - mrcnn_class_loss: 0.0653 - mrcnn_bbox_
+199/200 [============================>.] - ETA: 1s - loss: 1.1687 - rpn_class_loss: 0.0128 - rpn_bbox_loss: 0.3785 - mrcnn_class_loss: 0.0656 - mrcnn_bbox_
+200/200 [==============================] - 306s 2s/step - loss: 1.1720 - rpn_class_loss: 0.0128 - rpn_bbox_loss: 0.3804 - mrcnn_class_loss: 0.0660 - mrcnn_bbox_loss: 0.2941 - mrcnn_mask_loss: 0.4186 - val_loss: 2.0180 - val_rpn_class_loss: 0.0068 - val_rpn_bbox_loss: 0.9572 - val_mrcnn_class_loss: 0.0725 - val_mrcnn_bbox_loss: 0.5192 - val_mrcnn_mask_loss: 0.4622
+
+
+Epoch 40/40
+ 1/200 [..............................] - ETA: 4:05 - loss: 0.1920 - rpn_class_loss: 0.0031 - rpn_bbox_loss: 0.0111 - mrcnn_class_loss: 0.0099 - mrcnn_bbo  2/200 [..............................] - ETA: 4:04 - loss: 0.1889 - rpn_class_loss: 0.0031 - rpn_bbox_loss: 0.0106 - mrcnn_class_loss: 0.0087 - mrcnn_bbo  3/200 [..............................] - ETA: 4:03 - loss: 0.1916 - rpn_class_loss: 0.0031 - rpn_bbox_loss: 0.0101 - mrcnn_class_loss: 0.0130 - mrcnn_bbox
+...
+198/200 [============================>.] - ETA: 2s - loss: 0.2103 - rpn_class_loss: 0.0042 - rpn_bbox_loss: 0.0210 - mrcnn_class_loss: 0.0237 - mrcnn_bbox_199/200 [============================>.] - ETA: 1s - loss: 0.2101 - rpn_class_loss: 0.0042 - rpn_bbox_loss: 0.0209 - mrcnn_class_loss: 0.0237 - mrcnn_bbox_200/200 [==============================] - 259s 1s/step - loss: 0.2099 - rpn_class_loss: 0.0042 - rpn_bbox_loss: 0.0209 - mrcnn_class_loss: 0.0237 - mrcnn_bbox_loss: 0.0296 - mrcnn_mask_loss: 0.1315 - val_loss: 1.7605 - val_rpn_class_loss: 0.0049 - val_rpn_bbox_loss: 0.5389 - val_mrcnn_class_loss: 0.1379 - val_mrcnn_bbox_loss: 0.3475 - val_mrcnn_mask_loss: 0.7312
